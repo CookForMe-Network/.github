@@ -6,4 +6,4 @@ Browse local cooks by cuisine, dietary preference, and availability, then book m
 
 **Tagline:** Home-Cooked Meals, Delivered to You
 
-Coming soon at [cookforme.net](https://cookforme.net)
+Coming soon at [cookforme.network](https://cookforme.network)
